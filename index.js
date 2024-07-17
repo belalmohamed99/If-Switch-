@@ -20,4 +20,3 @@ function gradeWithIf(score) {
 let score = prompt("Enter your exam score: ");
 score = parseInt(score);
 gradeWithIf(score);
-
